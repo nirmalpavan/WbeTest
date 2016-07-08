@@ -1,0 +1,6 @@
+c:\users\v-manirm\documents\visual studio 2013\Projects\WbeTest\WbeTest\bin\WbeTest.dll.config
+c:\users\v-manirm\documents\visual studio 2013\Projects\WbeTest\WbeTest\bin\WbeTest.dll
+c:\users\v-manirm\documents\visual studio 2013\Projects\WbeTest\WbeTest\bin\WbeTest.pdb
+c:\users\v-manirm\documents\visual studio 2013\Projects\WbeTest\WbeTest\obj\Debug\WbeTest.csprojResolveAssemblyReference.cache
+c:\users\v-manirm\documents\visual studio 2013\Projects\WbeTest\WbeTest\obj\Debug\WbeTest.dll
+c:\users\v-manirm\documents\visual studio 2013\Projects\WbeTest\WbeTest\obj\Debug\WbeTest.pdb
